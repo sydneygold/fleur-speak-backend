@@ -8,7 +8,7 @@
 flower1 = Flower.create(
     name: "Azaelea",
     color: "Purple",
-    image: "./flowerPics/Flowers/azaelea-purple.png",
+    image: "azaelea-purple.png",
     description: "In Japan and China, azaeleas symbolize remembrance of home and the desire to return and family. Victorians saw these flowers as a symbol of temperance and elegance. Though due to their toxicity, azaeleas delivered in a black vase once symbolized a death threat.",
     color_description: "Friendship, joy")
 flower2 = Flower.create(

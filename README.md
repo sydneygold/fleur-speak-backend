@@ -1,7 +1,10 @@
 # FleurSpeak Backend
 
 ![pink peony](https://fleurspeak.web.app/peonies/peony-pink.png)
-FleurSpeak is a single page webapp to discover flower language <br> Fun fact: all the flowers are drawn by myself!
+
+
+FleurSpeak is a single page webapp to discover flower language <br> 
+Fun fact: all the flowers are drawn by myself!
 
 ## Installation
 

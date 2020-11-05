@@ -1,24 +1,24 @@
-# README
+# FleurSpeak Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![pink peony](https://fleurspeak.web.app/peonies/peony-pink.png)
 
-Things you may want to cover:
+FleurSpeak is a single page webapp to discover flower language <br> Fun fact: all the flowers are drawn by myself!
 
-* Ruby version
+##Installation
+-$ rails db:create
+-$ rails db:migrate
+-$ rails db:seed
 
-* System dependencies
+the front end connected to this repo can be found [here](https://github.com/sydneygold/fleurSpeak)
 
-* Configuration
+This repo is also deployed on heroku [here](https://fleur-speak-backend.herokuapp.com/flowers)
 
-* Database creation
+##Languages
+-vanilla js 
+-ruby on rails 
+-sass
 
-* Database initialization
+##Contributing
+Pull requests are welcome as well as requests for new flowers. Please keep in mind that this is a very beginner project! I'm planning on revamping it in react in the future. Please feel free to message me suggestions at my linkedin. For major changes, please open an issue first to discuss what you would like to change.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

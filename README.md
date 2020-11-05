@@ -8,7 +8,8 @@ Fun fact: all the flowers are drawn by myself!
 
 ## Installation
 
-``` -$ rails db:create
+``` 
+-$ rails db:create
 -$ rails db:migrate
 -$ rails db:seed 
 ```
